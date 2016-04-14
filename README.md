@@ -1,2 +1,2 @@
 # seamless
-seamless learning 
+seamless learning with wearable
